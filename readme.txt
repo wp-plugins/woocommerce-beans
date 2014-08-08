@@ -10,8 +10,7 @@ Stable tag: 0.9.0.1
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
-Beans is a powerful reward program plugin that helps you engage your customers. [Live Demo](http://example.loyalbeans.com)
-
+Beans is a powerful reward program plugin that helps you engage your customers.
 
 == Description ==
 
