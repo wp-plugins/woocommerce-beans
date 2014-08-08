@@ -1,16 +1,15 @@
 === WooCommerce · Beans · Loyalty program  ===
 
 Contributors: _beans
-Tags: loyalty, reward, voucher, point, points, loyalty program, woocommerce, marketing, advertising, 
-referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, 
-customers, woocommerce plugin, woocommerce extension
+Tags: loyalty, reward, voucher, point, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension
 Requires at least: 3.5
 Tested up to: 3.9.1
-Stable tag: 0.9.0.1
+Stable tag: 0.9.0.2
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
-Beans is a powerful reward program plugin that helps you engage your customers.
+Beans is a powerful reward program that helps you engage your customers.
+
 
 == Description ==
 
