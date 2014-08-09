@@ -26,9 +26,9 @@ When they select a reward, a discount is applied to the cart. No need to enter a
  
 https://www.youtube.com/watch?v=K4sj3_jeSiE
 
-[Read more about Beans](http://business.loyalbeans.com)
+[Read more about Beans](http://bit.ly/1smNKtw)
 
-[Live Demo](http://example.loyalbeans.com)
+[Live Demo](http://bit.ly/1pHkqud)
 
 
 == Installation ==
@@ -46,7 +46,7 @@ WooCommerce >= 2.0
 
 
 = Setting up =
-1. [Register](http://business.loyalbeans.com/register/) for **free** to set up your loyalty program and get your private and secret keys.
+1. [Register](http://bit.ly/XPfxWP) for **free** to set up your loyalty program and get your private and secret keys.
 2. Log in to your WordPress admin panel, navigate to WooCommerce Menu, go to Beans Submenu and enter your keys.
 
 
