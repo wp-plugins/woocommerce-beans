@@ -1,4 +1,4 @@
-=== WooCommerce · Beans · Loyalty program  ===
+=== WooCommerce · Beans · Loyalty/Reward Program  ===
 
 Contributors: _beans
 Tags: loyalty, reward, voucher, point, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension
@@ -38,11 +38,12 @@ WooCommerce >= 2.0
 
 = Automatic installation =
 1. Log in to your WordPress admin panel, navigate to the Plugins menu and click Add New. 
-2. Look for "Beans" and click Install Now
+2. Look for "Beans" and click Install Now and activate the plugin
 
 = Manual installation =
 1. Download the plugin file to your computer and unzip it 
-2. Upload the plugin folder to your WordPress installation’s wp-content/plugins/ directory
+2. Upload the plugin folder to your WordPress installation’s wp-content/plugins/ directory and activate the plugin
+
 
 = Setting up =
 1. [Register](http://business.loyalbeans.com/register/) for **free** to set up your loyalty program and get your private and secret keys.
