@@ -1,4 +1,4 @@
-=== WooCommerce · Beans · Loyalty & Reward Program  ===
+=== WooCommerce · Beans · Loyalty Program  ===
 
 Contributors: _beans
 Tags: loyalty, reward, voucher, point, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension
