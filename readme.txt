@@ -1,10 +1,10 @@
-=== WooCommerce · Beans · Loyalty/Reward Program  ===
+=== WooCommerce · Beans · Loyalty & Reward Program  ===
 
 Contributors: _beans
 Tags: loyalty, reward, voucher, point, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension
 Requires at least: 3.5
 Tested up to: 3.9.1
-Stable tag: 0.9.0.2
+Stable tag: 0.9.1
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -21,8 +21,8 @@ They will be notified when they can use a reward or when you create a new reward
 
 = How exaxtly does the plugin works? =
 
-When a user click on the plugin, a pop up show up with the list of rewards he can use. 
-When they select a reward, a discount is applied to the cart. No need to enter any voucher or coupon code.  
+When a user click on the plugin, a pop up show up with the list of rewards they can use. 
+When they select a reward, a discount is applied to the cart. No need to enter any voucher or coupon code. 
  
 https://www.youtube.com/watch?v=K4sj3_jeSiE
 
@@ -77,10 +77,14 @@ Yes, you can modify the position of the plugin using css.
 
 == Changelog ==
 
+= 0.9.1 =
+Bug fixes: When user want to change a reward
+Enhancement: Improve Currency support
+
 = 0.9.0 =
 *Pre-release
 
 == Upgrade Notice == 
 
-This is the initial commit.
+Make sure you keep a copy of your stylesheet.
  
