@@ -1,10 +1,10 @@
-=== WooCommerce · Beans · Loyalty Program  ===
+=== WooCommerce · Beans · Reward Program  ===
 
 Contributors: _beans
-Tags: loyalty, reward, voucher, point, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension
+Tags: loyalty, reward, voucher, point, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit
 Requires at least: 3.5
-Tested up to: 3.9.1
-Stable tag: 0.9.2
+Tested up to: 4.0.0
+Stable tag: 0.9.8
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -13,18 +13,15 @@ Beans is a powerful reward program that helps you engage your customers.
 
 == Description ==
 
-Turn your customers into repeat customers by engaging them into your loyalty program. 
-Beans allows you to create rewards given a certain number of points. 
-Your customers will only have access to reward if they have enough points. 
-On the top of that your customers can check their points balance anytime on computer, tablet or smartphone. 
-They will be notified when they can use a reward or when you create a new reward.
+Turn your customers into repeat customers by engaging them into your reward program. 
+Beans is a credit base system that allows you to reward your customers:
+- When they make a purchase.
+- When they like your facebook page.
+- and more to come...
 
-= How exactly does the plugin work? =
+When your customers complete an action (for example like your facebook page), they will be credited
+an amount of beans credit(that you decide) that they can redeem in your shop or save for a later purchase.
 
-When a user click on the plugin, a pop up show up with the list of rewards they can use. 
-When they select a reward, a discount is applied to the cart. No need to enter any voucher or coupon code. 
- 
-https://www.youtube.com/watch?v=K4sj3_jeSiE
 
 [Read more about Beans](http://bit.ly/1smNKtw)
 
@@ -38,7 +35,7 @@ WooCommerce >= 2.0
 
 = Automatic installation =
 1. Log in to your WordPress admin panel, navigate to the Plugins menu and click Add New. 
-2. Look for "Beans" and click Install Now and activate the plugin 
+2. Look for "Beans" and click Install Now and activate the plugin
 
 = Manual installation =
 1. Download the plugin file to your computer and unzip it 
@@ -46,40 +43,32 @@ WooCommerce >= 2.0
 
 
 = Setting up =
-1. [Register](http://bit.ly/XPfxWP) for **free** to set up your loyalty program and get your private and secret keys.
+1. [Register](http://bit.ly/XPfxWP) for **free** to get your private and secret keys.
 2. Log in to your WordPress admin panel, navigate to WooCommerce Menu, go to Beans Submenu and enter your keys.
 
 
 == Frequently Asked Questions ==
 
-= Why do you need to register? =
-When you sign up you get an account with a dedicated webpage (see screenshot 3) and it is **free**. 
-The rewards you create will be exposed on this page. 
-Your customers and anyone who want to get your loyalty card will access this page and see the rewards you have created. 
-People who possess your loyalty card will be able to see their point balance, the rewards they can redeem or the number 
-of points they should get before being able to redeem a reward. 
-Moreover they will be notified when they can redeem a reward or when you create a new reward. 
-Users are also able to share their loyalty card with a friend and give them a reward if they want. 
-This is an implicit referring as you do not solicit them to do so.
+= How can you modify the style? =
+There is a stylesheet in the folder assets/css/
+that can be modify to match your website style.
 
-= Can I change the style of Beans Plugin? =
-Yes, you can select the mode: "normal" or "light".
-
-= Can I move the position of Beans Plugin? =
-Yes, you can modify the position of the plugin on your website using css.
 
 == Screenshots ==
 
-1. Beans on your website. You can modify the plugin style and position on the page.
-2. Your admin panel. You can create rewards and monitor their performance.
-3. Your Beans page. This page is for your users.
+1. Beans display on the cart page.
+2. Beans display on the product page.
+3. Beans preview for the user.
+4. User account with transaction history.
 
 
 == Changelog ==
 
-= 0.9.2 =
-- Correct security issue with beans (points) transaction confirmation
-- Add support for new reward type
+= 0.9.8 =
+- New Version (beta)
+- Integration has been improved
+- Beans account are now linked to the user account
+- You can reward your users for facebooks likes
 
 = 0.9.1 =
 - Bug fixes: When user want to change a reward
@@ -90,5 +79,5 @@ Yes, you can modify the position of the plugin on your website using css.
 
 == Upgrade Notice == 
 
-Make sure you keep a copy of your stylesheet as it may be deleted during upgrade.
+Make sure you keep a copy of your stylesheet.
  
