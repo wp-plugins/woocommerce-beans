@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, voucher, point, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit
 Requires at least: 3.5
 Tested up to: 4.0.0
-Stable tag: 0.9.8
+Stable tag: 0.9.9
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -20,7 +20,7 @@ Beans is a credit base system that allows you to reward your customers:
 - and more to come...
 
 When your customers complete an action (for example like your facebook page), they will be credited
-an amount of beans credit(that you decide) that they can redeem in your shop or save for a later purchase.
+an amount of beans credit that they can redeem in your shop or save for a later purchase.
 
 
 [Read more about Beans](http://bit.ly/1smNKtw)
@@ -31,7 +31,8 @@ an amount of beans credit(that you decide) that they can redeem in your shop or 
 == Installation ==
 
 = Minimum Requirements =
-WooCommerce >= 2.0
+- WooCommerce >= 2.0
+- Supported currency are: USD, EUR, GBP, CAD
 
 = Automatic installation =
 1. Log in to your WordPress admin panel, navigate to the Plugins menu and click Add New. 
@@ -51,7 +52,7 @@ WooCommerce >= 2.0
 
 = How can you modify the style? =
 There is a stylesheet in the folder assets/css/
-that can be modify to match your website style.
+that can be modified to match your website style.
 
 
 == Screenshots ==
@@ -63,6 +64,12 @@ that can be modify to match your website style.
 
 
 == Changelog ==
+
+= 0.9.9 = 
+- Multiples Bugs Fixes
+- Style Bugs Fixes
+- Performance improved
+- Add Info Log
 
 = 0.9.8 =
 - New Version (beta)
