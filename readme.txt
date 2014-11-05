@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, voucher, point, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free
 Requires at least: 3.5
 Tested up to: 4.0.0
-Stable tag: 0.9.11
+Stable tag: 0.9.12
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -64,6 +64,9 @@ that can be modified to match your website style.
 
 
 == Changelog ==
+
+= 0.9.12 =
+- Fix database install bug for some wordpress version
 
 = 0.9.11 =
 - Fix database install bug
