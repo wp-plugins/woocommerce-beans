@@ -19,6 +19,7 @@ Drive new traffic, potential customers and leads through Beans Platform
 and by rewarding your customers for promoting your Business on social network or referring.
  
 Beans is a credit base system that allows you to reward users:
+
 - When they subscribe to your Beans Program.
 - When they like your Facebook page.
 - When they follow you on Twitter (beta).
@@ -79,6 +80,7 @@ You can also contact us directly at contact*loyalbeans.com
 There is a stylesheet in the folder assets/css/
 that can be modified to match your website style.
 
+For more information, visit us at [http://beans.cards/](http://www.beans.cards/)
 
 == Screenshots ==
 
@@ -93,7 +95,6 @@ that can be modified to match your website style.
 = 0.9.13 =
 - Validate beans credit only when order status get to processing or completed
 - Change buttons style to fit default style
-
 
 = 0.9.12 =
 - Fix database install bug for some wordpress version
