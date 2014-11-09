@@ -2,34 +2,31 @@
 
 Contributors: _beans
 Tags: loyalty, reward, voucher, point, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, pinterest
-Requires at least: 3.5
+Requires at least: 3.8
 Tested up to: 4.0.0
-Stable tag: 0.9.13
+Stable tag: 0.9.14
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
-Beans is a powerful loyalty and reward program that helps you promote your Business.
+Beans is a powerful loyalty & reward program that helps you engage your users and promote your business.
 
 
 == Description ==
 
 Promote your WooCommerce shop with Beans.
 
-Drive new traffic, potential customers and leads through Beans Platform 
-and by rewarding your customers for promoting your Business on social network or referring.
- 
-Beans is a credit base system that allows you to reward users:
+https://www.youtube.com/watch?v=cuSXqzha4A4
 
-- When they subscribe to your Beans Program.
+Beans is a credit base system that allows you to reward your users:
+
+- When they subscribe to your reward Program.
 - When they like your Facebook page.
 - When they follow you on Twitter (beta).
 - When they refer you to a friend (beta).
 - When they make a purchase.
 - and more to come...
 
-Your users will be able to redeem their beans credit directly on your WooCommerce shop.
-
-When you create a Beans Program it will be promoted on Beans Platform (Screenshot 5)
+When you create a reward program with Beans it will be promoted on Beans Platform (Screenshot 5)
 and indexed on Search Engine (Google, Bing, Yahoo Search...).
 
 Your beans page (like your Facebook page, Twitter page or PInterest page) 
@@ -39,16 +36,7 @@ becomes a showcase for your business to drive new sales and increase your digita
 [Read more about Beans](http://bit.ly/1smNKtw)
 
 
-[Create Your Beans Page Now](http://bit.ly/XPfxWP)
-
-
-= Betalist.com about Beans =
-
-Beans believe your customers are your greatest marketing power 
-and lets you reward your customers for actions 
-you can define to help promote your business.
-
-PS: Remember that this is the beta version of Beans. 
+PS: This is the beta version of Beans. 
 New features are added on a weekly basis and a few bugs may happen. 
 Do not forget to file a bug report if you encounter any issue. 
 You can also contact us directly at contact*loyalbeans.com
@@ -57,7 +45,7 @@ You can also contact us directly at contact*loyalbeans.com
 == Installation ==
 
 = Minimum Requirements =
-- WooCommerce >= 2.0
+- WooCommerce >= 2.1
 - Supported currency are: USD, EUR, GBP, CAD
 
 = Automatic installation =
@@ -80,7 +68,7 @@ You can also contact us directly at contact*loyalbeans.com
 There is a stylesheet in the folder assets/css/
 that can be modified to match your website style.
 
-For more information, visit us at [http://beans.cards/](http://www.beans.cards/)
+For more information, visit us at [http://www.beans.cards/](http://www.beans.cards/)
 
 == Screenshots ==
 
@@ -92,9 +80,14 @@ For more information, visit us at [http://beans.cards/](http://www.beans.cards/)
 
 == Changelog ==
 
+= 0.9.14 =
+- Minor bug fix
+- Correct currency printing issue 
+
 = 0.9.13 =
 - Validate beans credit only when order status get to processing or completed
 - Change buttons style to fit default style
+
 
 = 0.9.12 =
 - Fix database install bug for some wordpress version
