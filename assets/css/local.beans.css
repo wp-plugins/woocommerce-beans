@@ -1,0 +1,60 @@
+.beans-button{
+	color: #3498DB;
+	background-color: #FFF;
+	border: 1px solid #3498DB;
+	border-radius: 5px;
+	display: inline-block;
+	height: 34px;
+	cursor: pointer;
+	margin: 10px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	float: none;
+	padding: 0 5px;
+}
+.beans-button:hover{
+	background-repeat: no-repeat;
+	color: #3498DB;
+    background-color: #EEE;
+}
+
+.beans-button.beans-connect{
+	background-repeat: no-repeat;
+	background-position: 3px 50%;
+	background-size: auto 80%;
+	padding-left: 31px;
+}
+.beans-unit{
+    color: #3498DB;
+    font-style: italic;
+}
+.beans-div-cart-page{
+    width: 100%; 
+    display: block; 
+    border-top: 1px solid #DDD;
+    border-bottom: 1px solid #DDD;
+    padding: 0;
+}
+.beans-div-cart-page > table{
+    width: 100%; 
+    border-collapse: collapse; 
+    border-spacing: 0px;
+    border: none;
+    margin: 0;
+}
+.beans-div-cart-page table td{
+    vertical-align: middle;
+    border: none;
+}
+.beans-div-product-page{
+    width: 100%; 
+    display: block; 
+    text-align: left;
+    margin: 15px 0;
+}
+
+.beans-div-account-page{
+	
+}
+
