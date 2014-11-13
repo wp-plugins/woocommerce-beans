@@ -1,19 +1,18 @@
 === WooCommerce · Beans · Loyalty & Reward Program  ===
 
 Contributors: _beans
-Tags: loyalty, reward, voucher, point, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, pinterest
+Tags: loyalty, reward, retention, voucher, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, pinterest
 Requires at least: 3.8
 Tested up to: 4.0.0
-Stable tag: 0.9.14
+Stable tag: 0.9.15
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
-Beans is a powerful loyalty & reward program that helps you engage your users and promote your business.
-
+Beans helps you promote your business through your loyalty and reward program.
 
 == Description ==
 
-Promote your WooCommerce shop with Beans.
+Beans is a powerful loyalty & reward program that helps you engage your users and promote your business.
 
 https://www.youtube.com/watch?v=cuSXqzha4A4
 
@@ -41,12 +40,14 @@ New features are added on a weekly basis and a few bugs may happen.
 Do not forget to file a bug report if you encounter any issue. 
 You can also contact us directly at contact*loyalbeans.com
 
+- Internationalization is not yet supported: Only English is supported
+- Supported currency are: AUD, CAD, EUR, GBP, USD
 
 == Installation ==
 
 = Minimum Requirements =
 - WooCommerce >= 2.1
-- Supported currency are: USD, EUR, GBP, CAD
+- Supported currency are: AUD, CAD, EUR, GBP, USD
 
 = Automatic installation =
 1. Log in to your WordPress admin panel, navigate to the Plugins menu and click Add New. 
@@ -79,6 +80,11 @@ For more information, visit us at [http://www.beans.cards/](http://www.beans.car
 5. Beans Home Page where your beans page will be promoted. 
 
 == Changelog ==
+
+= 0.9.15 =
+- New feature: Send an invitation to your customers
+- Minor bug fix
+- Support woocommerce 2.1+ and wordpress 3.8+
 
 = 0.9.14 =
 - Minor bug fix
