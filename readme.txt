@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, retention, voucher, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, pinterest
 Requires at least: 3.8
 Tested up to: 4.0.0
-Stable tag: 0.9.15
+Stable tag: 0.9.16
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -66,8 +66,9 @@ You can also contact us directly at contact*loyalbeans.com
 == Frequently Asked Questions ==
 
 = How can you modify the style? =
-There is a stylesheet in the folder assets/css/
-that can be modified to match your website style.
+You can create your own style by modifying the file *local.beans.css*. This file is located at
+*woocommerce-beans/assets/css/local.beans.css*. If *local.beans.css* does not exist, 
+you should create it by copying *master.beans.css*: *woocommerce-beans/assets/css/master.beans.css*
 
 For more information, visit us at [http://www.beans.cards/](http://www.beans.cards/)
 
@@ -81,6 +82,11 @@ For more information, visit us at [http://www.beans.cards/](http://www.beans.car
 
 == Changelog ==
 
+= 0.9.16 =
+- Add info for user's beans balance in user account page
+- Avoid style to be overwriten after update
+- Minor bug fix
+
 = 0.9.15 =
 - New feature: Send an invitation to your customers
 - Minor bug fix
@@ -93,7 +99,6 @@ For more information, visit us at [http://www.beans.cards/](http://www.beans.car
 = 0.9.13 =
 - Validate beans credit only when order status get to processing or completed
 - Change buttons style to fit default style
-
 
 = 0.9.12 =
 - Fix database install bug for some wordpress version
