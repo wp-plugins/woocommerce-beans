@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-beans\n"
+"POT-Creation-Date: 2014-11-19 21:17+0100\n"
+"PO-Revision-Date: 2014-11-19 22:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+
+#: includes/wc-beans-settings.php:57
+msgid "Would you like to get our Beans card for free?"
+msgstr "Souhaitez vous obtenir notre carte de fidélité Beans?"
+
+#: includes/wc-beans-settings.php:239
+msgid "Settings"
+msgstr "Paramètres"
+
+#: includes/wc-beans-settings.php:248
+msgid "Beans Settings"
+msgstr "Paramètres Beans"
+
+#: includes/wc-beans-settings.php:265
+msgid "Connect to Beans"
+msgstr ""
+
+#: includes/wc-beans-settings.php:282
+msgid "Get started with Beans"
+msgstr ""
+
+#: includes/wc-beans-settings.php:285
+msgid ""
+" is an advanced loyalty and reward program that helps you engage your "
+"customers on a long term and promote your business. Once you have joined "
+"Beans you will be able to set your rules. Your reward program will be "
+"promoted on our website and indexed for SEO."
+msgstr ""
+
+#: includes/wc-beans-settings.php:292
+msgid "Join for free"
+msgstr ""
+
+#: includes/wc-beans-settings.php:299
+msgid "Send an email invitation to your customers to join your reward program."
+msgstr "Invitez par e-mail vos client à rejoindre votre programme de fidélité."
+
+#: includes/wc-beans-settings.php:303
+msgid "Send invitations"
+msgstr ""
+
+#: includes/wc-beans-settings.php:315
+msgid "Public Key"
+msgstr "Clé publique"
+
+#: includes/wc-beans-settings.php:318
+msgid "Connect to your Beans account to get your public key."
+msgstr "Connectez vous a votre compte Beans pour obtenir votre clé publique"
+
+#: includes/wc-beans-settings.php:322
+msgid "Secret Key"
+msgstr "Clé privée"
+
+#: includes/wc-beans-settings.php:325
+msgid "Connect to your Beans account to get your secret key."
+msgstr "Connectez vous à votre compte Beans pour obtenir votre clé privée"
+
+#: includes/wc-beans-settings.php:333
+msgid "Support and feedback to Beans"
+msgstr ""
+
+#: includes/wc-beans-settings.php:363
+msgid "Invitations sent successfully."
+msgstr "Invitations envoyées."
+
+#: includes/wc-beans-settings.php:374
+msgid "Beans Public and Secret keys are mandatory."
+msgstr "La clé Beans publique et privée sont nécéssaires"
+
+#: includes/wc-beans-settings.php:413
+msgid "Settings saved successfully."
+msgstr "Paramètres sauvegardés"
+
+#: woocommerce-beans.php:358
+#, php-format
+msgid "You have chosen to redeem <span class=\"beans-unit\"> %s beans</span>."
+msgstr ""
+
+#: woocommerce-beans.php:361
+msgid "Cancel"
+msgstr "Annuler"
+
+#: woocommerce-beans.php:368
+#, php-format
+msgid "You have  %s beans."
+msgstr "Vous avez %s beans."
+
+#: woocommerce-beans.php:372
+msgid "Redeem my beans"
+msgstr ""
+
+#: woocommerce-beans.php:381
+msgid ""
+"Connect with Beans to get rewarded when you make a purchase, \n"
+"                             like our Facebook page and more..."
+msgstr ""
+
+#: woocommerce-beans.php:383
+msgid "Connect with Beans"
+msgstr ""
+
+#: woocommerce-beans.php:400
+#, php-format
+msgid "Earn <span class=\"beans-unit\"> %s beans</span> with this purchase."
+msgstr ""
+
+#: woocommerce-beans.php:432
+#, php-format
+msgid "You have %s beans."
+msgstr ""
+
+#: woocommerce-beans.php:442
+msgid "Beans account"
+msgstr ""
+
+#: woocommerce-beans.php:466
+#, php-format
+msgid "Get this product for  %s beans"
+msgstr ""
+
+#: woocommerce-beans.php:473
+#, php-format
+msgid "Buy this product and earn %s beans"
+msgstr ""
