@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, retention, voucher, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, pinterest
 Requires at least: 3.8
 Tested up to: 4.0.0
-Stable tag: 0.9.18
+Stable tag: 0.9.19
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -31,6 +31,7 @@ and indexed on Search Engine (Google, Bing, Yahoo Search...).
 Your beans page (like your Facebook page, Twitter page or PInterest page) 
 becomes a showcase for your business to drive new sales and increase your digital footprint.
 
+[Beans Preview](https://www.beans.cards/preview/?src=wp-plugins)
 
 [Read more about Beans](http://bit.ly/1smNKtw)
 
@@ -38,9 +39,9 @@ becomes a showcase for your business to drive new sales and increase your digita
 PS: This is the beta version of Beans. 
 New features are added on a weekly basis and a few bugs may happen. 
 Do not forget to file a bug report if you encounter any issue. 
-You can also contact us directly at contact*loyalbeans.com
+You can also contact us directly at hello*loyalbeans.com
 
-- Internationalization is not yet supported: Only English is supported
+- Internationalization is supported, please check FAQ
 - Supported currency are: AUD, CAD, EUR, GBP, USD
 
 == Installation ==
@@ -70,6 +71,17 @@ You can create your own style by modifying the file *local.beans.css*. This file
 *woocommerce-beans/assets/css/local.beans.css*. If *local.beans.css* does not exist, 
 you should create it by copying *master.beans.css*: *woocommerce-beans/assets/css/master.beans.css*
 
+= How can you change Beans plugin language? =
+You can translate the plugin in your language easily using the .po file in 'language' Beans directory.
+
+- Copy and rename the woocommerce-beans-en_US.po (for example for french the rename file would be woocommerce-beans-fr_FR.po)
+- Change the "Language: en_US\n" line in the file according to your language (for example for french it would be "Language: fr_FR\n")
+
+Now you can translate the plugin using for example Poedit
+Just open the file with Poedit and start translation.
+
+More information about Poedit [here](https://make.wordpress.org/polyglots/handbook/tools/poedit/#translating-with-poedit)
+ 
 For more information, visit us at [http://www.beans.cards/](http://www.beans.cards/)
 
 == Screenshots ==
@@ -81,6 +93,9 @@ For more information, visit us at [http://www.beans.cards/](http://www.beans.car
 5. Beans Home Page where your beans page will be promoted. 
 
 == Changelog ==
+
+= 0.9.19 =
+- Internationalization supported
 
 = 0.9.18 =
 -Beans info issue for some woocommerce shops
