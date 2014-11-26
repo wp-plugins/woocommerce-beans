@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, retention, voucher, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, pinterest
 Requires at least: 3.8
 Tested up to: 4.0.0
-Stable tag: 0.9.19
+Stable tag: 0.9.20
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -74,8 +74,8 @@ you should create it by copying *master.beans.css*: *woocommerce-beans/assets/cs
 = How can you change Beans plugin language? =
 You can translate the plugin in your language easily using the .po file in 'language' Beans directory.
 
-- Copy and rename the woocommerce-beans-en_US.po (for example for french the rename file would be woocommerce-beans-fr_FR.po)
-- Change the "Language: en_US\n" line in the file according to your language (for example for french it would be "Language: fr_FR\n")
+- Copy and rename the woocommerce-beans-xx_XX.po (for example for french the rename file would be woocommerce-beans-fr_FR.po)
+- Change the "Language: xx_XX\n" line in the file according to your language (for example for french it would be "Language: fr_FR\n")
 
 Now you can translate the plugin using for example Poedit
 Just open the file with Poedit and start translation.
@@ -93,6 +93,9 @@ For more information, visit us at [http://www.beans.cards/](http://www.beans.car
 5. Beans Home Page where your beans page will be promoted. 
 
 == Changelog ==
+
+= 0.9.20 =
+- Cancel Beans redeem when user choose to remove coupon using wc (when user click on remove coupon link )
 
 = 0.9.19 =
 - Internationalization supported
