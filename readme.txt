@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, retention, voucher, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, pinterest
 Requires at least: 3.8
 Tested up to: 4.0.0
-Stable tag: 0.9.20
+Stable tag: 0.9.21
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -31,7 +31,7 @@ and indexed on Search Engine (Google, Bing, Yahoo Search...).
 Your beans page (like your Facebook page, Twitter page or PInterest page) 
 becomes a showcase for your business to drive new sales and increase your digital footprint.
 
-[Beans Preview](https://www.beans.cards/preview/?src=wp-plugins)
+[Beans Preview](http://bit.ly/1uSngAB)
 
 [Read more about Beans](http://bit.ly/1smNKtw)
 
@@ -42,7 +42,7 @@ Do not forget to file a bug report if you encounter any issue.
 You can also contact us directly at hello*loyalbeans.com
 
 - Internationalization is supported, please check FAQ
-- Supported currency are: AUD, CAD, EUR, GBP, USD
+- ***Supported currency are: AUD, CAD, EUR, GBP, USD***
 
 == Installation ==
 
@@ -72,17 +72,17 @@ You can create your own style by modifying the file *local.beans.css*. This file
 you should create it by copying *master.beans.css*: *woocommerce-beans/assets/css/master.beans.css*
 
 = How can you change Beans plugin language? =
-You can translate the plugin in your language easily using the .po file in 'language' Beans directory.
+You can translate the plugin in your language easily by using the .po file in 'languages' Beans directory.
 
-- Copy and rename the woocommerce-beans-xx_XX.po (for example for french the rename file would be woocommerce-beans-fr_FR.po)
+- Copy and rename the woocommerce-beans-xx_XX.po (for example for french the renamed file would be woocommerce-beans-fr_FR.po)
 - Change the "Language: xx_XX\n" line in the file according to your language (for example for french it would be "Language: fr_FR\n")
 
-Now you can translate the plugin using for example Poedit
+Now you can translate the plugin using for example Poedit.
 Just open the file with Poedit and start translation.
 
-More information about Poedit [here](https://make.wordpress.org/polyglots/handbook/tools/poedit/#translating-with-poedit)
- 
-For more information, visit us at [http://www.beans.cards/](http://www.beans.cards/)
+More information about Poedit [here](https://make.wordpress.org/polyglots/handbook/tools/poedit/#translating-with-poedit).
+
+Questions about Beans? Please read [help & support](http://bit.ly/1ymo025) page.
 
 == Screenshots ==
 
@@ -93,6 +93,11 @@ For more information, visit us at [http://www.beans.cards/](http://www.beans.car
 5. Beans Home Page where your beans page will be promoted. 
 
 == Changelog ==
+
+= 0.9.21 =
+- Translation bug fixing
+- Personalized message added to propose visitors to join your reward program
+- Connect with Beans and redeem my beans buttons added on checkout page
 
 = 0.9.20 =
 - Cancel Beans redeem when user choose to remove coupon using wc (when user click on remove coupon link )
