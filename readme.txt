@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, retention, voucher, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, pinterest
 Requires at least: 3.8
 Tested up to: 4.0.0
-Stable tag: 0.9.37
+Stable tag: 0.9.38
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -96,19 +96,22 @@ Questions about Beans? Please read [help & support](http://bit.ly/1ymo025) page.
 == Changelog ==
 
 
+= 0.9.38 =
+- Bug fix
+
 = 0.9.37 =
--Connect with Beans is now more user friendly
--Html fix
+- Beans Connect is now more user friendly
+- Html fix
 
 = 0.9.36 =
--Translation file fix
+- Translation file fix
 
 = 0.9.35 =
--Html fix
+- Html fix
 
 = 0.9.34 =
--Minimum/Maximum Beans redeem option
--Style fix
+- Minimum/Maximum Beans redeem option
+- Style fix
 
 = 0.9.33 =
 - Show/hide Beans price on product page additionnal fix
