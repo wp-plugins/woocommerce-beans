@@ -1,45 +1,72 @@
 === WooCommerce · Beans · Loyalty & Reward Program  ===
 
 Contributors: _beans
-Tags: loyalty, reward, retention, voucher, points, loyalty program, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, pinterest
+Tags: loyalty, reward, retention, voucher, points, loyalty program, incentive, incentivize, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, PInterest
 Requires at least: 3.8
 Tested up to: 4.0.0
-Stable tag: 0.9.40
+Stable tag: 0.9.41
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
-Beans helps you promote your business through your loyalty and reward program.
+Simple, non-intrusive, and efficient loyalty and reward program for woocommerce retailers.
 
 == Description ==
 
-Beans is a powerful loyalty & reward program that helps you engage your users and promote your business.
+***We’re on a mission to make your loyalty and rewards program simpler, more pleasant and more productive.***
+
+Beans is a beautiful and powerful loyalty and reward program that
+ helps you improve long term engagement and promote your business
+by increasing customers interactions with your organization.
 
 https://www.youtube.com/watch?v=cuSXqzha4A4
 
-Beans is a credit base system that allows you to reward your users:
+= Rules =
+
+Beans works with the services that your business already uses!
+With Beans, you can incentivize your customers for doing
+whatever matters to your business, for example:
 
 - When they subscribe to your reward Program.
-- When they like your Facebook page.
-- When they follow you on Twitter (beta).
-- When they refer you to a friend (beta).
 - When they make a purchase.
-- and more to come...
+- When they like your Facebook page.
+- and more...
 
-When you create a reward program with Beans it will be promoted on Beans Platform (Screenshot 5)
+[See our full list of rules](http://bit.ly/1FeQVtr)
+
+= Discovery =
+
+When you create a reward program with Beans it will be promoted on Beans Platform
 and indexed on Search Engine (Google, Bing, Yahoo Search...).
 
 Your beans page (like your Facebook page, Twitter page or PInterest page) 
 becomes a showcase for your business to drive new sales and increase your digital footprint.
 
-[Beans Preview](http://bit.ly/1uSngAB)
+[See who else is using Beans](http://bit.ly/1794dsS)
 
-[Read more about Beans](http://bit.ly/1smNKtw)
+= Features =
 
+- Install any rule in a few clicks
+- Create your own rules
+- Customize you beans name
+- Email notifications for your customers
+- Make manual credit or debit from beans interface
+- Powerful analytics to help you measure your performance
+- Set max/min beans redeem per order
+- Fraud detection system
+- And more...
+
+[Read more about Beans](http://bit.ly/17dBtPr)
+
+= Premium =
+
+Beans is free to use for as long as you want and with an unlimited number of customers.
+But if you want to take full advantage of Beans
+and customize it with your branding you can try one of our [premium package](http://bit.ly/1JiD9bW).
 
 PS: This is the beta version of Beans. 
 New features are added on a weekly basis and a few bugs may happen. 
 Do not forget to file a bug report if you encounter any issue. 
-You can also contact us directly at hello*loyalbeans.com
+You can also contact us directly at hello*trybeans.com
 
 - Internationalization is supported, please check FAQ
 - ***Supported currency are: AUD, CAD, EUR, GBP, USD***
@@ -58,20 +85,28 @@ You can also contact us directly at hello*loyalbeans.com
 1. Download the plugin file to your computer and unzip it 
 2. Upload the plugin folder to your WordPress installation’s wp-content/plugins/ directory and activate the plugin
 
-
 = Setting up =
-1. [Register](http://bit.ly/XPfxWP) for **free** to get your private and secret keys.
-2. Log in to your WordPress admin panel, navigate to WooCommerce Menu, go to Beans Submenu and enter your keys.
+1. [Register](http://bit.ly/17CFWfs) for **free** to get your private and secret keys.
+2. Log in to your WordPress admin panel, navigate to WooCommerce Menu, go to Beans sub-menu and enter your keys.
 
 
 == Frequently Asked Questions ==
 
+= How much does Beans cost? =
+
+Beans is free to use for as long as you want and with an unlimited number of customers.
+But if you want to take full advantage of Beans
+and customize it with your branding you can try one of our [premium package](http://bit.ly/1JiD9bW).
+
+
 = How can you modify the style? =
+
 You can create your own style by modifying the file *local.beans.css*. This file is located at
 *woocommerce-beans/assets/css/local.beans.css*. If *local.beans.css* does not exist, 
 you should create it by copying *master.beans.css*: *woocommerce-beans/assets/css/master.beans.css*
 
 = How can you change Beans plugin language? =
+
 You can translate the plugin in your language easily by using the .po file in 'languages' Beans directory.
 
 - Copy and rename the woocommerce-beans-xx_XX.po (for example for french the renamed file would be woocommerce-beans-fr_FR.po)
@@ -82,18 +117,23 @@ Just open the file with Poedit and start translation.
 
 More information about Poedit [here](https://make.wordpress.org/polyglots/handbook/tools/poedit/#translating-with-poedit).
 
-Questions about Beans? Please read [help & support](http://bit.ly/1ymo025) page.
 
 == Screenshots ==
 
-1. Beans display on the cart page.
-2. Beans display on the product page.
-3. Your Beans page preview.
-4. User account with Beans balance when clic on info.
-5. User account with transaction history when clic on info.
-6. Beans explore page where your Beans page will be promoted. 
+1. Beans Admin Interface: Putting a face on your customers' name.
+2. Build customers engagement with the rules you need.
+3. Very beautiful and tight integration. With Beans, good design matters!
+4. Create the reward program you need with the user-experience you want.
+5. Beans Analytics: You can only improve what you can measure.
+6. All these shops are already happy with Beans. And you?
 
 == Changelog ==
+
+= 0.9.41 =
+- Add support for beans branding (beans name customization )
+- Add support for decimal beans values
+- Minimal bug fix
+
 
 = 0.9.40 =
 - Send invitation to a customer after purchase 
@@ -120,7 +160,7 @@ Questions about Beans? Please read [help & support](http://bit.ly/1ymo025) page.
 - Style fix
 
 = 0.9.33 =
-- Show/hide Beans price on product page additionnal fix
+- Show/hide Beans price on product page additional fix
 
 = 0.9.32 =
 - Show/hide Beans price on product page minor bug fix
@@ -133,7 +173,7 @@ Questions about Beans? Please read [help & support](http://bit.ly/1ymo025) page.
 = 0.9.30 =
 - New design for the Beans interface
 - Improve Beans integration : users don't need to leave your website 
-- Cutomers can now access their Beans account from your website
+- Customers can now access their Beans account from your website
 - Minor bug fixes
 
 = 0.9.27 =
@@ -179,7 +219,7 @@ Questions about Beans? Please read [help & support](http://bit.ly/1ymo025) page.
 
 = 0.9.16 =
 - Add info for user's beans balance in user account page
-- Avoid style to be overwriten after update
+- Avoid style to be overwritten after update
 - Minor bug fix
 
 = 0.9.15 =
@@ -214,7 +254,7 @@ Questions about Beans? Please read [help & support](http://bit.ly/1ymo025) page.
 - New Version (beta)
 - Integration has been improved
 - Beans account are now linked to the user account
-- You can reward your users for facebooks likes
+- You can reward your users for facebook likes
 
 = 0.9.1 =
 - Bug fixes: When user want to change a reward
