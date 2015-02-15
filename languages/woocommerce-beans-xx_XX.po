@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-beans\n"
+"POT-Creation-Date: 2015-01-26 21:41+0100\n"
+"PO-Revision-Date: 2015-01-26 21:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: xx_XX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../includes/wc-beans-settings.php:268
+msgid "Settings"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:277
+msgid "Beans Settings"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:295
+msgid "Connect to Beans"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:312
+msgid "Get started with Beans"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:315
+msgid ""
+" is an advanced loyalty and reward program that helps you engage your "
+"customers on a long term and promote your business. Once you have joined "
+"Beans you will be able to set your rules. Your reward program will be "
+"promoted on our website and indexed for SEO."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:322
+msgid "Join for free"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:329
+msgid "Send an email invitation to your customers to join your reward program."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:333
+msgid "Send invitations"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:345
+msgid "Public Key"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:348
+msgid "Connect to your Beans account to get your public key."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:352
+msgid "Secret Key"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:355
+msgid "Connect to your Beans account to get your secret key."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:359
+msgid "Show Beans price on shop"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:362
+msgid "Show Beans price for each product on shop page"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:366
+msgid "Show Beans price for products"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:369
+msgid "Show Beans price on product page"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:373
+msgid "Propose your Beans card to first time visitors"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:376
+msgid ""
+"Invite your first time visitors to join your reward program. This will only "
+"appear once."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:380
+msgid "Maximum beans redeem per order"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:399
+msgid "Minimum beans redeem per order"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:423
+msgid "Support and feedback to Beans"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:453
+msgid "Invitations sent successfully."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:464
+msgid "Beans Public and Secret keys are mandatory."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:518
+msgid "Settings saved successfully."
+msgstr ""
+
+#: ../woocommerce-beans.php:219
+msgid "Not enough Beans to redeem. Minimal redeem is "
+msgstr ""
+
+#: ../woocommerce-beans.php:226
+msgid "Maximal redeem is "
+msgstr ""
+
+#: ../woocommerce-beans.php:413
+#, php-format
+msgid "<span class=\"beans-unit\"> %1$s beans </span>"
+msgstr ""
+
+#: ../woocommerce-beans.php:433
+#, php-format
+msgid "You have chosen to redeem <span class=\"beans-unit\"> %s beans</span>."
+msgstr ""
+
+#: ../woocommerce-beans.php:436
+msgid "Cancel"
+msgstr ""
+
+#: ../woocommerce-beans.php:443
+#, php-format
+msgid "You have  %s beans."
+msgstr ""
+
+#: ../woocommerce-beans.php:447
+msgid "Redeem my beans"
+msgstr ""
+
+#: ../woocommerce-beans.php:452
+msgid ""
+"Connect with Beans to get rewarded when you make a purchase, like our "
+"Facebook page and more..."
+msgstr ""
+
+#: ../woocommerce-beans.php:453
+msgid "Connect with Beans"
+msgstr ""
+
+#: ../woocommerce-beans.php:470
+#, php-format
+msgid "Earn <span class=\"beans-unit\"> %s beans</span> with this purchase."
+msgstr ""
+
+#: ../woocommerce-beans.php:481 ../woocommerce-beans.php:528
+#: ../woocommerce-beans.php:586
+#, php-format
+msgid "<span class=\"beans-unit\"> %1$s beans </span> // %2$s"
+msgstr ""
+
+#: ../woocommerce-beans.php:515
+#, php-format
+msgid "You have %s beans."
+msgstr ""
+
+#: ../woocommerce-beans.php:560
+#, php-format
+msgid "Get this product for  %1$s - %2$s beans"
+msgstr ""
+
+#: ../woocommerce-beans.php:561
+#, php-format
+msgid "Buy this product and earn %1$s - %2$s beans"
+msgstr ""
+
+#: ../woocommerce-beans.php:567
+#, php-format
+msgid "Get this product for  %s beans"
+msgstr ""
+
+#: ../woocommerce-beans.php:568
+#, php-format
+msgid "Buy this product and earn %s beans"
+msgstr ""
