@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-beans\n"
+"POT-Creation-Date: 2015-02-17 21:57+0100\n"
+"PO-Revision-Date: 2015-02-17 21:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: xx_XX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../includes/wc-beans-settings.php:268
+msgid "Settings"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:277
+msgid "Beans Settings"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:308
+msgid "Getting started with Beans"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:311
+msgid ""
+" is an advanced incentive program that helps you improve customers long term "
+"engagement and promote your business. Beans wants to help your organization "
+"increase interactions with your customers. Once you have joined Beans, you "
+"will be able to create rules, that define how your customers will get their "
+"beans."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:319
+msgid "Join for free"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:329
+msgid "Connect to Beans"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:333
+msgid "Send an email invitation to your customers to join your reward program."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:337
+msgid "Send invitations"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:349
+msgid "Public Key"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:352
+msgid "Connect to your Beans account to get your public key."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:356
+msgid "Secret Key"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:359
+msgid "Connect to your Beans account to get your secret key."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:363
+msgid "Beans price on shop"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:366
+msgid "Show beans price for each product on shop page"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:370
+msgid "Beans price for products"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:373
+msgid "Show beans price on product page"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:377
+msgid "Convert visitors"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:380
+msgid ""
+"Automatically show Beans to first time visitors. This will only appear once."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:384
+msgid "Email notification"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:387
+msgid ""
+"Send a notification to customers that forget to join your reward program "
+"before completing their order. (Recommended)"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:391
+msgid "Maximum beans redeem per order"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:410
+msgid "Minimum beans redeem per order"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:435
+msgid "Support and feedback to Beans"
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:466
+msgid "Invitations sent successfully."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:477
+msgid "Beans Public and Secret keys are mandatory."
+msgstr ""
+
+#: ../includes/wc-beans-settings.php:513
+msgid "Settings saved successfully."
+msgstr ""
+
+#: ../woocommerce-beans.php:241
+msgid "Not enough "
+msgstr ""
+
+#: ../woocommerce-beans.php:248
+msgid "Maximal redeem is "
+msgstr ""
+
+#: ../woocommerce-beans.php:459
+#, php-format
+msgid "<span class=\"beans-unit\"> %1$s</span>"
+msgstr ""
+
+#: ../woocommerce-beans.php:477
+#, php-format
+msgid "You have chosen to redeem <span class=\"beans-unit\"> %1$s %2$s</span>."
+msgstr ""
+
+#: ../woocommerce-beans.php:481
+msgid "Cancel"
+msgstr ""
+
+#: ../woocommerce-beans.php:488
+#, php-format
+msgid "You have  %1$s."
+msgstr ""
+
+#: ../woocommerce-beans.php:493
+msgid "Redeem my "
+msgstr ""
+
+#: ../woocommerce-beans.php:498
+msgid ""
+"Connect with Beans to get rewarded when you make a purchase, like our "
+"Facebook page and more..."
+msgstr ""
+
+#: ../woocommerce-beans.php:499
+msgid "Connect with Beans"
+msgstr ""
+
+#: ../woocommerce-beans.php:513
+#, php-format
+msgid "Earn <span class=\"beans-unit\"> %1$s</span> with this purchase."
+msgstr ""
+
+#: ../woocommerce-beans.php:525 ../woocommerce-beans.php:575
+#: ../woocommerce-beans.php:634
+#, php-format
+msgid "<span class=\"beans-unit\"> %1$s </span> // %2$s"
+msgstr ""
+
+#: ../woocommerce-beans.php:562
+#, php-format
+msgid "You have %1$s"
+msgstr ""
+
+#: ../woocommerce-beans.php:609
+#, php-format
+msgid "Get this product for  %1$s - %2$s %3$s"
+msgstr ""
+
+#: ../woocommerce-beans.php:610
+#, php-format
+msgid "Buy this product and earn %1$s - %2$s %3$s"
+msgstr ""
+
+#: ../woocommerce-beans.php:616
+#, php-format
+msgid "Get this product for  %1$s"
+msgstr ""
+
+#: ../woocommerce-beans.php:617
+#, php-format
+msgid "Buy this product and earn %1$s"
+msgstr ""
