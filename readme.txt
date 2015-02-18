@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, retention, voucher, points, loyalty program, incentive, incentivize, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, PInterest
 Requires at least: 3.8
 Tested up to: 4.0.0
-Stable tag: 0.9.43
+Stable tag: 0.9.44
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -128,6 +128,10 @@ More information about Poedit [here](https://make.wordpress.org/polyglots/handbo
 6. All these shops are already happy with Beans. And you?
 
 == Changelog ==
+
+= 0.9.44 =
+- Better support for internationalization
+- Compatibility improvement
 
 = 0.9.43 =
 - Compatibility with WooCommerce 2.3 improved
