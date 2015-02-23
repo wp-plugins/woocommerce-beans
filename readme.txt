@@ -112,12 +112,10 @@ you should create it by copying *master.beans.css*: *woocommerce-beans/assets/cs
 = How can you change Beans plugin language? =
 
 - Get the .pot file located at languages/woocommerce-beans.pot in the Beans plugin directory.
-
 - Create the .mo using your preferred [translation Tool](https://make.wordpress.org/polyglots/handbook/tools/).
-
 - Put your custom Beans translations in your WordPress language directory,
-located at: WP_LANG_DIR . "/woocommerce-beans/{$textdomain}-{$locale}.mo".
-For example: /wp-content/languages/woocommerce-beans/af-ZA.mo for Afrikaans-South Africa.
+located at: WP_LANG_DIR . "/woocommerce-beans/{$locale}.mo".
+For example: /wp-content/languages/woocommerce-beans/af_ZA.mo for Afrikaans - South Africa.
 
 [More info about translating](http://codex.wordpress.org/Translating_WordPress).
 
