@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, retention, voucher, points, loyalty program, incentive, incentivize, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, PInterest
 Requires at least: 4.0
 Tested up to: 4.1.1
-Stable tag: 0.9.46
+Stable tag: 0.9.47
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -78,12 +78,17 @@ You can also contact us directly at hello*trybeans.com
 - Supported currency are: AUD, CAD, EUR, GBP, USD
 
 = Automatic installation =
-1. Log in to your WordPress admin panel, navigate to the Plugins menu and click Add New. 
-2. Look for "Beans" and click Install Now and activate the plugin
+Automatic installation is the easiest option as WordPress handles the file transfers
+itself and you don’t need to leave your web browser.
+To do an automatic install of Beans, log in to your WordPress dashboard,
+navigate to the Plugins menu and click Add New.
+
+In the search field type “Beans” and click Search Plugins.
+Once you’ve found our plugin you can install it by simply clicking “Install Now”.
 
 = Manual installation =
-1. Download the plugin file to your computer and unzip it 
-2. Upload the plugin folder to your WordPress installation’s wp-content/plugins/ directory and activate the plugin
+The WordPress codex contains instructions on
+[how to do this here](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
 
 = Setting up =
 1. [Register](http://bit.ly/17CFWfs) for **free** to get your private and secret keys.
@@ -98,7 +103,6 @@ Beans is free to use for as long as you want and with an unlimited number of cus
 But if you want to take full advantage of Beans
 and customize it with your branding you can try one of our [premium package](http://bit.ly/1JiD9bW).
 
-
 = How can you modify the style? =
 
 You can create your own style by modifying the file *local.beans.css*. This file is located at
@@ -107,16 +111,15 @@ you should create it by copying *master.beans.css*: *woocommerce-beans/assets/cs
 
 = How can you change Beans plugin language? =
 
-You can translate the plugin in your language easily by using the .po file in 'languages' Beans directory.
+- Get the .pot file located at languages/woocommerce-beans.pot in the Beans plugin directory.
 
-- Copy and rename the woocommerce-beans-xx_XX.po (for example for french the renamed file would be woocommerce-beans-fr_FR.po)
-- Change the "Language: xx_XX\n" line in the file according to your language (for example for french it would be "Language: fr_FR\n")
+- Create the .mo using your preferred [translation Tool](https://make.wordpress.org/polyglots/handbook/tools/).
 
-Now you can translate the plugin using for example Poedit.
-Just open the file with Poedit and start translation.
+- Put your custom Beans translations in your WordPress language directory,
+located at: WP_LANG_DIR . "/woocommerce-beans/{$textdomain}-{$locale}.mo".
+For example: /wp-content/languages/woocommerce-beans/af-ZA.mo for Afrikaans-South Africa.
 
-More information about Poedit [here](https://make.wordpress.org/polyglots/handbook/tools/poedit/#translating-with-poedit).
-
+[More info about translating](http://codex.wordpress.org/Translating_WordPress).
 
 == Screenshots ==
 
@@ -128,6 +131,9 @@ More information about Poedit [here](https://make.wordpress.org/polyglots/handbo
 6. All these shops are already happy with Beans. And you?
 
 == Changelog ==
+
+= 0.9.47 =
+- New translation interface: please read FAQ
 
 = 0.9.46 =
 - Improve mobile compatibility
@@ -153,7 +159,6 @@ More information about Poedit [here](https://make.wordpress.org/polyglots/handbo
 - Add support for beans branding (beans name customization )
 - Add support for decimal beans values
 - Minimal bug fix
-
 
 = 0.9.40 =
 - Send invitation to a customer after purchase 
@@ -185,7 +190,6 @@ More information about Poedit [here](https://make.wordpress.org/polyglots/handbo
 = 0.9.32 =
 - Show/hide Beans price on product page minor bug fix
 - Style fix
-
 
 = 0.9.31 =
 - Show/hide Beans price on product page
