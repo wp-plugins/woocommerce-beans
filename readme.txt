@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, retention, voucher, points, loyalty program, incentive, incentivize, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, PInterest
 Requires at least: 4.0
 Tested up to: 4.1.1
-Stable tag: 0.9.47
+Stable tag: 0.9.49
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -38,7 +38,7 @@ whatever matters to your business, for example:
 When you create a reward program with Beans it will be promoted on Beans Platform
 and indexed on Search Engine (Google, Bing, Yahoo Search...).
 
-Your beans page (like your Facebook page, Twitter page or PInterest page) 
+Your beans page (like your Facebook page, Twitter page or PInterest page)
 becomes a showcase for your business to drive new sales and increase your digital footprint.
 
 [See who else is using Beans](http://bit.ly/1794dsS)
@@ -63,9 +63,9 @@ Beans is free to use for as long as you want and with an unlimited number of cus
 But if you want to take full advantage of Beans
 and customize it with your branding you can try one of our [premium package](http://bit.ly/1JiD9bW).
 
-PS: This is the beta version of Beans. 
-New features are added on a weekly basis and a few bugs may happen. 
-Do not forget to file a bug report if you encounter any issue. 
+PS: This is the beta version of Beans.
+New features are added on a weekly basis and a few bugs may happen.
+Do not forget to file a bug report if you encounter any issue.
 You can also contact us directly at hello*trybeans.com
 
 - Internationalization is supported, please check FAQ
@@ -106,7 +106,7 @@ and customize it with your branding you can try one of our [premium package](htt
 = How can you modify the style? =
 
 You can create your own style by modifying the file *local.beans.css*. This file is located at
-*woocommerce-beans/assets/css/local.beans.css*. If *local.beans.css* does not exist, 
+*woocommerce-beans/assets/css/local.beans.css*. If *local.beans.css* does not exist,
 you should create it by copying *master.beans.css*: *woocommerce-beans/assets/css/master.beans.css*
 
 = How can you change Beans plugin language? =
@@ -129,6 +129,11 @@ For example: /wp-content/languages/woocommerce-beans/af_ZA.mo for Afrikaans - So
 6. All these shops are already happy with Beans. And you?
 
 == Changelog ==
+
+= 0.9.49 =
+- Max redeem message corrected
+- Update account page
+- Update Readme
 
 = 0.9.47 =
 - New translation interface: please read FAQ
