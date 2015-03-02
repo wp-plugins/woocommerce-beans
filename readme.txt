@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, retention, voucher, points, loyalty program, incentive, incentivize, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, PInterest
 Requires at least: 4.0
 Tested up to: 4.1.1
-Stable tag: 0.9.50
+Stable tag: 0.9.51
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -31,7 +31,7 @@ whatever matters to your business, for example:
 - When they like your Facebook page.
 - and more...
 
-[See our full list of rules](http://bit.ly/1FeQVtr)
+[See our full list of rules](http://bit.ly/1aISCTn)
 
 = Discovery =
 
@@ -41,7 +41,7 @@ and indexed on Search Engine (Google, Bing, Yahoo Search...).
 Your beans page (like your Facebook page, Twitter page or PInterest page)
 becomes a showcase for your business to drive new sales and increase your digital footprint.
 
-[See who else is using Beans](http://bit.ly/1794dsS)
+[See who else is using Beans](http://bit.ly/1Bz4n9a)
 
 = Features =
 
@@ -55,13 +55,13 @@ becomes a showcase for your business to drive new sales and increase your digita
 - Fraud detection system
 - And more...
 
-[Read more about Beans](http://bit.ly/17dBtPr)
+[Read more about Beans](http://bit.ly/1wEzwb4)
 
 = Premium =
 
 Beans is free to use for as long as you want and with an unlimited number of customers.
 But if you want to take full advantage of Beans
-and customize it with your branding you can try one of our [premium package](http://bit.ly/1JiD9bW).
+and customize it with your branding you can try one of our [premium package](http://bit.ly/1Eb0dF1).
 
 PS: This is the beta version of Beans.
 New features are added on a weekly basis and a few bugs may happen.
@@ -91,7 +91,7 @@ The WordPress codex contains instructions on
 [how to do this here](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
 
 = Setting up =
-1. [Register](http://bit.ly/17CFWfs) for **free** to get your private and secret keys.
+1. [Register](http://bit.ly/1GcgNXj) for **free** to get your private and secret keys.
 2. Log in to your WordPress admin panel, navigate to WooCommerce Menu, go to Beans sub-menu and enter your keys.
 
 
@@ -101,7 +101,7 @@ The WordPress codex contains instructions on
 
 Beans is free to use for as long as you want and with an unlimited number of customers.
 But if you want to take full advantage of Beans
-and customize it with your branding you can try one of our [premium package](http://bit.ly/1JiD9bW).
+and customize it with your branding you can try one of our [premium package](http://bit.ly/1Eb0dF1).
 
 = How can you modify the style? =
 
@@ -114,8 +114,10 @@ you should create it by copying *master.beans.css*: *woocommerce-beans/assets/cs
 - Get the .pot file located at languages/woocommerce-beans.pot in the Beans plugin directory.
 - Create the .mo using your preferred [translation Tool](https://make.wordpress.org/polyglots/handbook/tools/).
 - Put your custom Beans translations in your WordPress language directory,
-located at: WP_LANG_DIR . "/woocommerce-beans/{$locale}.mo".
-For example: /wp-content/languages/woocommerce-beans/af_ZA.mo for Afrikaans - South Africa.
+located at: WP_LANG_DIR . "/woocommerce-beans/{$text_domain}-{$locale}.mo".
+The main text domain is **woocommerce-beans** and the admin text domain is **woocommerce-beans-admin**.
+For example: /wp-content/languages/woocommerce-beans/woocommerce-beans-af_ZA.mo
+for Afrikaans - South Africa translation of the main text domain.
 
 [More info about translating](http://codex.wordpress.org/Translating_WordPress).
 
@@ -129,6 +131,11 @@ For example: /wp-content/languages/woocommerce-beans/af_ZA.mo for Afrikaans - So
 6. All these shops are already happy with Beans. And you?
 
 == Changelog ==
+
+= 0.9.51 =
+- Order meta info for admin
+- Beans price range minimal fix
+
 
 = 0.9.50 =
 - Fix critical bug when cart is updated
