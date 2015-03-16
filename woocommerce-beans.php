@@ -3,7 +3,7 @@
  * Plugin Name: WooCommerce Beans
  * Plugin URI: https://business.trybeans.com/
  * Description: Beans extension for woocommerce. Advanced reward program for woocommerce that helps you engage your customers.
- * Version: 0.9.51
+ * Version: 0.9.60
  * Author: Beans
  * Author URI: https://business.trybeans.com/
  * Text Domain: woocommerce-beans
@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) )
 if ( ! in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) )
     return;
 
-define('BEANS_VERSION',                 '0.9.51');
+define('BEANS_VERSION',                 '0.9.60');
 define('BEANS_DECIMALS',                2);
 define('BEANS_COUPON_UID',              'beans_redeem');
 define('BEANS_WEBSITE',                 'https://www.trybeans.com');
