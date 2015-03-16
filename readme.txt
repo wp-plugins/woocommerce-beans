@@ -69,13 +69,12 @@ Do not forget to file a bug report if you encounter any issue.
 You can also contact us directly at hello*trybeans.com
 
 - Internationalization is supported, please check FAQ
-- ***Supported currency are: AUD, CAD, EUR, GBP, USD***
+- ***All currencies are supported!***
 
 == Installation ==
 
 = Minimum Requirements =
 - WooCommerce >= 2.2
-- Supported currency are: AUD, CAD, EUR, GBP, USD
 
 = Automatic installation =
 Automatic installation is the easiest option as WordPress handles the file transfers
@@ -132,6 +131,11 @@ for Afrikaans - South Africa translation of the main text domain.
 
 == Changelog ==
 
+= 0.9.60 =
+- Support all currencies
+- Long beans rate message option added
+- Latest Beans Api supported
+
 = 0.9.51 =
 - Order meta info for admin
 - Beans price range minimal fix
@@ -174,7 +178,7 @@ for Afrikaans - South Africa translation of the main text domain.
 - Minimal bug fix
 
 = 0.9.40 =
-- Send invitation to a customer after purchase 
+- Send invitation to a customer after purchase
 
 = 0.9.39 =
 - Html bug fix
@@ -209,7 +213,7 @@ for Afrikaans - South Africa translation of the main text domain.
 
 = 0.9.30 =
 - New design for the Beans interface
-- Improve Beans integration : users don't need to leave your website 
+- Improve Beans integration : users don't need to leave your website
 - Customers can now access their Beans account from your website
 - Minor bug fixes
 
@@ -230,7 +234,7 @@ for Afrikaans - South Africa translation of the main text domain.
 
 = 0.9.23 =
 - Handle when not enough beans to redeem ( avoid null amount coupon)
-- You have chosen to redeem your beans message does not appear anymore after a repeat purchase  
+- You have chosen to redeem your beans message does not appear anymore after a repeat purchase
 
 = 0.9.22 =
 - Visitor message bug fixing
@@ -266,7 +270,7 @@ for Afrikaans - South Africa translation of the main text domain.
 
 = 0.9.14 =
 - Minor bug fix
-- Correct currency printing issue 
+- Correct currency printing issue
 
 = 0.9.13 =
 - Validate beans credit only when order status get to processing or completed
@@ -281,7 +285,7 @@ for Afrikaans - South Africa translation of the main text domain.
 = 0.9.10 =
 - Fix beans display on product page
 
-= 0.9.9 = 
+= 0.9.9 =
 - Multiples Bugs Fixes
 - Style Bugs Fixes
 - Performance improved
@@ -300,7 +304,6 @@ for Afrikaans - South Africa translation of the main text domain.
 = 0.9.0 =
 *Pre-release
 
-== Upgrade Notice == 
+== Upgrade Notice ==
 
 Make sure you keep a copy of your stylesheet.
- 
