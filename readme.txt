@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, retention, voucher, points, loyalty program, incentive, incentivize, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, PInterest
 Requires at least: 4.0
 Tested up to: 4.1.1
-Stable tag: 0.9.51
+Stable tag: 0.9.60
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
