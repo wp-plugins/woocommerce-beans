@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, retention, voucher, points, loyalty program, incentive, incentivize, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, PInterest
 Requires at least: 4.0
 Tested up to: 4.1.1
-Stable tag: 0.9.62
+Stable tag: 0.9.63
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -118,6 +118,8 @@ The main text domain is **woocommerce-beans** and the admin text domain is **woo
 For example: /wp-content/languages/woocommerce-beans/woocommerce-beans-af_ZA.mo
 for Afrikaans - South Africa translation of the main text domain.
 
+Help us translate Beans. Send us your .po and .mo files and they will be integrated in the next update.
+
 [More info about translating](http://codex.wordpress.org/Translating_WordPress).
 
 == Screenshots ==
@@ -131,10 +133,11 @@ for Afrikaans - South Africa translation of the main text domain.
 
 == Changelog ==
 
+= 0.9.63 =
+- Correcting javascript loading issue
+
 = 0.9.62 =
-- Info tag more explicit
-- New Beans description as option
-- Minimal bug fix
+- Choose between shop default style and Beans style
 
 = 0.9.61 =
 - Beans to earn message fix
