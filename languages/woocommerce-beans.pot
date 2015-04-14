@@ -1,0 +1,232 @@
+# Copyright (C) 2015 WooCommerce Beans
+# This file is distributed under the same license as the WooCommerce Beans package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Beans 0.9.51\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/woocommerce-beans\n"
+"POT-Creation-Date: 2015-03-16 22:09:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/utils.php:27
+msgid "exchange %1$s for %2$s in our shop"
+msgstr ""
+
+#: includes/utils.php:33
+msgid "%1$s // %2$s"
+msgstr ""
+
+#: includes/utils.php:48 woocommerce-beans.php:408
+msgid "Connect with Beans"
+msgstr ""
+
+#: includes/wc-beans-settings.php:165
+msgid "Settings"
+msgstr ""
+
+#: includes/wc-beans-settings.php:174
+msgid "Beans Settings"
+msgstr ""
+
+#: includes/wc-beans-settings.php:184
+msgid "Beans is not properly configured. "
+msgstr ""
+
+#: includes/wc-beans-settings.php:186
+msgid "Set up"
+msgstr ""
+
+#: includes/wc-beans-settings.php:194
+msgid ""
+"Beans: You have not invited your customers to join your reward program. "
+msgstr ""
+
+#: includes/wc-beans-settings.php:198
+msgid "Invite now"
+msgstr ""
+
+#: includes/wc-beans-settings.php:239
+msgid "Getting started with Beans"
+msgstr ""
+
+#: includes/wc-beans-settings.php:250
+msgid "Join for free"
+msgstr ""
+
+#: includes/wc-beans-settings.php:254
+msgid "Good luck and happy incentivizing!"
+msgstr ""
+
+#: includes/wc-beans-settings.php:260
+msgid "Send an email invitation to your customers to join your reward program."
+msgstr ""
+
+#: includes/wc-beans-settings.php:264
+msgid "Send invitations"
+msgstr ""
+
+#: includes/wc-beans-settings.php:271
+msgid "Connect to Beans"
+msgstr ""
+
+#: includes/wc-beans-settings.php:286
+msgid "Connect to your Beans account to get your public key."
+msgstr ""
+
+#: includes/wc-beans-settings.php:292
+msgid "Connect to your Beans account to get your secret key."
+msgstr ""
+
+#: includes/wc-beans-settings.php:299
+msgid "Show beans price on product page"
+msgstr ""
+
+#: includes/wc-beans-settings.php:305
+msgid "Show beans price for each product on shop page"
+msgstr ""
+
+#: includes/wc-beans-settings.php:311
+msgid "Show long beans rate message"
+msgstr ""
+
+#: includes/wc-beans-settings.php:317
+msgid ""
+"Automatically show Beans to first time visitors. This will only appear once."
+msgstr ""
+
+#: includes/wc-beans-settings.php:323
+msgid ""
+"Send a notification to customers that forget to join your reward program "
+"before completing their order. (Recommended)"
+msgstr ""
+
+#: includes/wc-beans-settings.php:327
+msgid "Maximum beans redeem per order"
+msgstr ""
+
+#: includes/wc-beans-settings.php:346
+msgid "Minimum beans redeem per order"
+msgstr ""
+
+#: includes/wc-beans-settings.php:374
+msgid "Support and feedback to Beans"
+msgstr ""
+
+#: includes/wc-beans-settings.php:378
+msgid "Reset Settings"
+msgstr ""
+
+#: includes/wc-beans-settings.php:556
+msgid "Invitations sent successfully."
+msgstr ""
+
+#: includes/wc-beans-settings.php:568
+msgid "Beans Public and Secret keys are mandatory."
+msgstr ""
+
+#: includes/wc-beans-settings.php:598
+msgid "Settings saved successfully."
+msgstr ""
+
+#: woocommerce-beans.php:237
+msgid "Not enough %1$s to redeem."
+msgstr ""
+
+#: woocommerce-beans.php:249
+msgid "Not enough %1$s to redeem. Minimal redeem is %2$s."
+msgstr ""
+
+#: woocommerce-beans.php:259
+msgid "Maximal redeem is %1$s."
+msgstr ""
+
+#: woocommerce-beans.php:382 woocommerce-beans.php:400
+msgid "You have  %1$s."
+msgstr ""
+
+#: woocommerce-beans.php:385
+msgid "View account history"
+msgstr ""
+
+#: woocommerce-beans.php:391
+msgid "You have chosen to redeem %1$s."
+msgstr ""
+
+#: woocommerce-beans.php:394
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce-beans.php:403
+msgid "Redeem"
+msgstr ""
+
+#: woocommerce-beans.php:407
+msgid ""
+"Connect with Beans to get rewarded when you make a purchase, like our "
+"Facebook page and more..."
+msgstr ""
+
+#: woocommerce-beans.php:423
+msgid "Earn %1$s with this purchase."
+msgstr ""
+
+#: woocommerce-beans.php:466
+msgid "You have been debited %1$s for this purchase."
+msgstr ""
+
+#: woocommerce-beans.php:473
+msgid "No information could be found on this order."
+msgstr ""
+
+#: woocommerce-beans.php:478
+msgid "You have been credited %1$s for this purchase."
+msgstr ""
+
+#: woocommerce-beans.php:483
+msgid "You will be credited %1$s for this purchase."
+msgstr ""
+
+#: woocommerce-beans.php:488
+msgid "Connect your Beans account to earn %1$s with this purchase."
+msgstr ""
+
+#: woocommerce-beans.php:532
+msgid "Get this product for  %1$s - %2$s."
+msgstr ""
+
+#: woocommerce-beans.php:534
+msgid "Buy this product and earn %1$s - %2$s."
+msgstr ""
+
+#: woocommerce-beans.php:542
+msgid "Get this product for  %1$s."
+msgstr ""
+
+#: woocommerce-beans.php:543
+msgid "Buy this product and earn %1$s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Beans"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (WooCommerce Beans 0.9.51)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (WooCommerce Beans 0.9.51)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://business.trybeans.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Beans extension for woocommerce. Advanced reward program for woocommerce "
+"that helps you engage your customers."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Beans"
+msgstr ""
