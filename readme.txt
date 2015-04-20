@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, retention, voucher, points, loyalty program, incentive, incentivize, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, PInterest
 Requires at least: 4.0
 Tested up to: 4.1.1
-Stable tag: 0.9.67
+Stable tag: 0.9.68
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -113,10 +113,9 @@ you should create it by copying *master.beans.css*: *woocommerce-beans/assets/cs
 - Get the .pot file located at languages/woocommerce-beans.pot in the Beans plugin directory.
 - Create the .mo using your preferred [translation Tool](https://make.wordpress.org/polyglots/handbook/tools/).
 - Put your custom Beans translations in your WordPress language directory,
-located at: WP_LANG_DIR . "woocommerce-beans/{$text_domain}-{$locale}.mo".
-The main text domain is **woocommerce-beans**.
-For example: /wp-content/languages/woocommerce-beans/woocommerce-beans-af_ZA.mo
-for Afrikaans - South Africa translation of the main text domain.
+located at: WP_LANG_DIR . "/plugins/woocommerce-beans-{$locale}.mo".
+For example: /wp-content/languages/plugins/woocommerce-beans-af_ZA.mo
+for Afrikaans - South Africa translation.
 
 Help us translate Beans. Send us your .po and .mo files and they will be integrated in the next update.
 
@@ -132,6 +131,11 @@ Help us translate Beans. Send us your .po and .mo files and they will be integra
 6. All these shops are already happy with Beans. And you?
 
 == Changelog ==
+
+= 0.9.68 =
+- Fix translation path files
+- Add italian language as translated in the settings
+- Fix beans amount style
 
 = 0.9.67 =
 - Test mode added. Only Admin can use and see Beans.
