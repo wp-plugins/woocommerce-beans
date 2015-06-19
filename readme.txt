@@ -1,10 +1,10 @@
 === WooCommerce · Beans · Loyalty & Reward Program  ===
 
 Contributors: _beans
-Tags: loyalty, reward, retention, voucher, points, loyalty program, incentive, incentivize, woocommerce, marketing, advertising, referring, discount, promoting, coupon, loyalbeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, PInterest
+Tags: loyalty, reward, retention, voucher, points, loyalty program, incentive, incentivize, woocommerce, marketing, advertising, referring, discount, promoting, coupon, trybeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, PInterest
 Requires at least: 4.0
-Tested up to: 4.2
-Stable tag: 0.9.69
+Tested up to: 4.2.2
+Stable tag: 0.9.70
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -28,7 +28,7 @@ whatever matters to your business, for example:
 
 - When they subscribe to your reward Program.
 - When they make a purchase.
-- When they like your Facebook page.
+- When they refer you to a friend.
 - and more...
 
 [See our full list of rules](http://bit.ly/1aISCTn)
@@ -47,7 +47,7 @@ becomes a showcase for your business to drive new sales and increase your digita
 
 - Install any rule in a few clicks
 - Create your own rules
-- Customize you beans name
+- Customize your beans name
 - Email notifications for your customers
 - Make manual credit or debit from beans interface
 - Powerful analytics to help you measure your performance
@@ -68,8 +68,6 @@ New features are added on a weekly basis and a few bugs may happen.
 Do not forget to file a bug report if you encounter any issue.
 You can also contact us directly at hello*trybeans.com
 
-- Internationalization is supported, please check FAQ
-- ***All currencies are supported!***
 
 == Installation ==
 
@@ -132,9 +130,12 @@ Help us translate Beans. Send us your .po and .mo files and they will be integra
 
 == Changelog ==
 
+= 0.9.70 =
+- Yeah!!! Beans now support authentication with store account.
+New user get automatically enrolled in your reward program.
+
 = 0.9.69 =
 - Wordpress 4.2 supported
-
 
 = 0.9.68 =
 - Fix translation path files
@@ -168,7 +169,6 @@ Help us translate Beans. Send us your .po and .mo files and they will be integra
 - Minimal bug fix
 
 = 0.9.60 =
-- Support all currencies
 - Long beans rate message option added
 - Latest Beans Api supported
 
