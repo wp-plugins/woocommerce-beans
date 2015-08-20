@@ -1,0 +1,337 @@
+# Copyright (C) 2015 WooCommerce Beans
+# This file is distributed under the same license as the WooCommerce Beans package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Beans 0.9.67\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/woocommerce-beans\n"
+"POT-Creation-Date: 2015-04-17 15:03:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/utils.php:32
+msgid ""
+"%1$s reward program is now available on Beans. Join us with your Facebook or "
+"Beans account."
+msgstr ""
+
+#: includes/utils.php:58
+msgid "%1$s // %2$s"
+msgstr ""
+
+#: includes/utils.php:70
+msgid "Join"
+msgstr ""
+
+#: includes/admin.php:184 includes/admin.php:363
+#: includes/admin.php:625
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:203
+msgid "Beans is not properly configured."
+msgstr ""
+
+#: includes/admin.php:205
+msgid "Set up"
+msgstr ""
+
+#: includes/admin.php:212 includes/admin.php:334
+msgid ""
+"Beans is currently in Test Mode. Only the shop manager is able to see and "
+"use Beans."
+msgstr ""
+
+#: includes/admin.php:216 includes/admin.php:345
+#: includes/admin.php:489
+msgid "Deactivate test mode"
+msgstr ""
+
+#: includes/admin.php:224
+msgid "You have not invited your customers to join your reward program."
+msgstr ""
+
+#: includes/admin.php:228
+msgid "Invite now"
+msgstr ""
+
+#: includes/admin.php:300
+msgid "Getting started with Beans"
+msgstr ""
+
+#: includes/admin.php:304
+msgid ""
+"Beans is an advanced incentive program that helps you improve customers long "
+"term engagement and promote your business."
+msgstr ""
+
+#: includes/admin.php:306
+msgid ""
+"Beans wants to help your organization increase interactions with your "
+"customers."
+msgstr ""
+
+#: includes/admin.php:308
+msgid ""
+"Once you have joined Beans, you will be able to create rules, that define "
+"how your customers will get their beans."
+msgstr ""
+
+#: includes/admin.php:313
+msgid "Join for free"
+msgstr ""
+
+#: includes/admin.php:317
+msgid "Good luck and happy incentivizing!"
+msgstr ""
+
+#: includes/admin.php:324
+msgid "Connect to Beans"
+msgstr ""
+
+#: includes/admin.php:331
+msgid "Test Mode"
+msgstr ""
+
+#: includes/admin.php:337
+msgid "The plugin is disabled for your customers and visitors."
+msgstr ""
+
+#: includes/admin.php:339
+msgid ""
+"When you are ready, just deactivate the test mode to allow your customers to "
+"see and join your reward program."
+msgstr ""
+
+#: includes/admin.php:352
+msgid "Invitations"
+msgstr ""
+
+#: includes/admin.php:353
+msgid "Send an email invitation to your customers to join your reward program."
+msgstr ""
+
+#: includes/admin.php:357
+msgid "Send invitations"
+msgstr ""
+
+#: includes/admin.php:372
+msgid "Enter your Beans address."
+msgstr ""
+
+#: includes/admin.php:378
+msgid "Enter your Beans secret key."
+msgstr ""
+
+#: includes/admin.php:391
+msgid "Show beans price on product page"
+msgstr ""
+
+#: includes/admin.php:397
+msgid "Disable Beans on product page"
+msgstr ""
+
+#: includes/admin.php:403
+msgid "Show beans price for each product on shop page"
+msgstr ""
+
+#: includes/admin.php:409
+msgid ""
+"Automatically show Beans to first time visitors. This will only appear once."
+msgstr ""
+
+#: includes/admin.php:415
+msgid "Use my shop default style instead of Beans style."
+msgstr ""
+
+#: includes/admin.php:421
+msgid ""
+"Allow customers to get their beans after completing an order. (Recommended)"
+msgstr ""
+
+#: includes/admin.php:425
+msgid "Maximum beans redeem per order"
+msgstr ""
+
+#: includes/admin.php:445
+msgid "Minimum beans redeem per order"
+msgstr ""
+
+#: includes/admin.php:480
+msgid "Reset settings"
+msgstr ""
+
+#: includes/admin.php:491
+msgid "Activate test mode"
+msgstr ""
+
+#: includes/admin.php:498
+msgid "Make a review"
+msgstr ""
+
+#: includes/admin.php:502
+msgid "Help"
+msgstr ""
+
+#: includes/admin.php:565 woocommerce-beans.php:511
+msgid "No information could be found on this order."
+msgstr ""
+
+#: includes/admin.php:571 includes/admin.php:585
+msgid "Credit"
+msgstr ""
+
+#: includes/admin.php:576
+msgid "The customer has been credited %1$s for this order."
+msgstr ""
+
+#: includes/admin.php:578
+msgid "Crediting the account failed with the message:"
+msgstr ""
+
+#: includes/admin.php:586
+msgid ""
+"The customer will be credited when the order status will be updated to "
+"<b>processing</b> or <b>completed</b>."
+msgstr ""
+
+#: includes/admin.php:593 includes/admin.php:607
+msgid "Debit"
+msgstr ""
+
+#: includes/admin.php:598
+msgid "The customer has been debited %1$s for this order."
+msgstr ""
+
+#: includes/admin.php:600
+msgid "Debiting the account failed with the message:"
+msgstr ""
+
+#: includes/admin.php:608
+msgid "There is no redeem with this order."
+msgstr ""
+
+#: includes/admin.php:614
+msgid "View this customer account"
+msgstr ""
+
+#: includes/admin.php:619
+msgid "Hmmmm... This customer seems to not be using Beans."
+msgstr ""
+
+#: includes/admin.php:624
+msgid ""
+"You have disable email notification, so there was nothing we could do to "
+"keep them. :("
+msgstr ""
+
+#: includes/admin.php:630
+msgid ""
+"Don't Panic! We have sent an email to correct this, so they still have a "
+"chance to get their beans for this order."
+msgstr ""
+
+#: includes/admin.php:690
+msgid "Invitations sent successfully."
+msgstr ""
+
+#: includes/admin.php:702
+msgid "Beans Public and Secret keys are mandatory."
+msgstr ""
+
+#: includes/admin.php:742
+msgid "Settings saved successfully."
+msgstr ""
+
+#: woocommerce-beans.php:266 woocommerce-beans.php:278
+msgid "Not enough %1$s to redeem."
+msgstr ""
+
+#: woocommerce-beans.php:279
+msgid "Minimal redeem is %2$s."
+msgstr ""
+
+#: woocommerce-beans.php:288
+msgid "Maximal redeem is %1$s."
+msgstr ""
+
+#: woocommerce-beans.php:419 woocommerce-beans.php:437
+#: woocommerce-beans.php:596
+msgid "You have  %1$s."
+msgstr ""
+
+#: woocommerce-beans.php:422
+msgid "View account history"
+msgstr ""
+
+#: woocommerce-beans.php:428 woocommerce-beans.php:588
+msgid "You have chosen to redeem %1$s."
+msgstr ""
+
+#: woocommerce-beans.php:431
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce-beans.php:440
+msgid "Redeem"
+msgstr ""
+
+#: woocommerce-beans.php:462 woocommerce-beans.php:584
+msgid "Earn %1$s with this purchase."
+msgstr ""
+
+#: woocommerce-beans.php:504
+msgid "You have been debited %1$s for this purchase."
+msgstr ""
+
+#: woocommerce-beans.php:516
+msgid "You have been credited %1$s for this purchase."
+msgstr ""
+
+#: woocommerce-beans.php:521
+msgid "You will be credited %1$s for this purchase."
+msgstr ""
+
+#: woocommerce-beans.php:526
+msgid "Join our reward program to earn %1$s with this purchase."
+msgstr ""
+
+#: woocommerce-beans.php:633
+msgid "Get this product for  %1$s - %2$s."
+msgstr ""
+
+#: woocommerce-beans.php:635
+msgid "Buy this product and earn %1$s - %2$s."
+msgstr ""
+
+#: woocommerce-beans.php:643
+msgid "Get this product for  %1$s."
+msgstr ""
+
+#: woocommerce-beans.php:644
+msgid "Buy this product and earn %1$s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Beans"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (WooCommerce Beans 0.9.65.j)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (WooCommerce Beans 0.9.65.j)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://business.trybeans.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Beans extension for woocommerce. Advanced reward program for woocommerce "
+"that helps you engage your customers."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Beans"
+msgstr ""
