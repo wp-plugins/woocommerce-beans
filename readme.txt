@@ -4,7 +4,7 @@ Contributors: _beans
 Tags: loyalty, reward, retention, voucher, points, loyalty program, incentive, incentivize, woocommerce, marketing, advertising, referring, discount, promoting, coupon, trybeans, beans, affiliate, e-commerce, ecommerce, engage, customers, woocommerce plugin, woocommerce extension, facebook, like, social network, credit, free, twitter, tweet, google, google plus, PInterest
 Requires at least: 4.0
 Tested up to: 4.3
-Stable tag: 0.10.1
+Stable tag: 0.10.2
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -129,6 +129,10 @@ Help us translate Beans. Send us your .po and .mo files and they will be integra
 6. All these shops are already happy with Beans. And you?
 
 == Changelog ==
+
+= 0.10.2 =
+- Deactivate wpautop on reward program page
+- center the reward program page by default
 
 = 0.10.1 =
 - Correct typo error in beans.js
